@@ -10,11 +10,8 @@
 
         <com.pisek.slidetounlock.CustomSlideUnlock
             android:id="@+id/customSlideUnlock"
-            android:splitTrack="false"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp"
-            android:background="@drawable/shape_slide_unlock"
-            android:progressDrawable="@android:color/transparent" />
+            android:layout_margin="16dp"/>
     </LinearLayout>
 </layout>
